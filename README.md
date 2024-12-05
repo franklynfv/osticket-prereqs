@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine with Windows
 - Log into the VM with Remote Desktop
-- Withing the VM, download osTicket
+- Within the VM, download osTicket
 - Item 4 
 - Item 5
 
